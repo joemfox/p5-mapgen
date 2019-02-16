@@ -1,0 +1,14 @@
+{
+  "name": "p5-mapgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo src/js/index.js:build/bundle.js --live --css src/css/styles.css --title 'map generator'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.7.3"
+  }
+}
