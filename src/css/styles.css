@@ -1,3 +1,8 @@
+@font-face{
+    font-family: "CooperHewitt Semibold";
+    src: url("./build/fonts/CooperHewitt/CooperHewitt-Semibold.otf")
+}
+
 body{
     margin: 0;
 }
